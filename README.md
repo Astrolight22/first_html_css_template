@@ -7,7 +7,7 @@ Bem vindo! Este é um projeto de portfólio pessoal desenvolvido por mim Mikael 
 ## Arquivo HTML <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 
 ### Home (index.html) 
-Esta é a página principal do portfólio. Ela contém uma breve introdução e links para as minhas redes sociais.
+Esta é a página principal do portfólio, ela contém uma breve introdução e links para as minhas redes sociais.
 
 ### Sobre mim (about.html)
 Esta página fornece detalhes sobre as minhas experiencias iniciais e caracteristicas pessoas.
