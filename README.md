@@ -10,7 +10,7 @@ Bem vindo! Este é um projeto de portfólio pessoal desenvolvido por mim Mikael 
 Esta é a página principal do portfólio. Ela contém uma breve introdução e links para as minhas redes sociais.
 
 ### Sobre mim (about.html)
-Esta página fornece detalhes sobre as minhas experineicas e caracteristicas pessoas.
+Esta página fornece detalhes sobre as minhas experiencias iniciais e caracteristicas pessoas.
 
 ## Arquivo CSS <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 O estilo do projeto é definido no arquivo estilos/styles.css. Aqui estão alguns detalhes sobre a estrutura do CSS:
